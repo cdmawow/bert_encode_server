@@ -48,7 +48,7 @@ cd sent_server
 bash sent_server.sh
 ```
 
-参数与**字特征提取（服务端）**所示参数一致，但需注意：
+参数与**字特征提取（服务端）** 所示参数一致，但需注意：
 
 * `-pooling_strategy`参数应删除或设置该参数为`REDUCE_MEAN`。
 
